@@ -18,6 +18,7 @@ y = cs(x)
 dy = cs(x,1)
 d2y = cs(x,2)
 
+
 # Krumningsradius, obviosly
 krumningsRadius = []
 for i in range(0, len(d2y)):
